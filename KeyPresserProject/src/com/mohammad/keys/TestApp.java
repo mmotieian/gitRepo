@@ -11,6 +11,8 @@ public class TestApp {
 
 	private JFrame frmByMohammadNajar;
 	private JButton btnClickToEnable = new JButton("Click to ENABLE Win 8 Charms Bar");
+	
+	{System.out.println("Hello world");}
 
 	/**
 	 * Launch the application.
